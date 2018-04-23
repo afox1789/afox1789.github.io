@@ -1,0 +1,45 @@
+html {
+    font-size: 20px;
+    font-family: 'Gugi', cursive;
+    background-color: lavender;
+}
+body {
+    width: 600px;
+    margin: 0px auto;
+    background-color: #FF9500;
+    padding: 0px 20px 20px 20px;
+    border: 5px solid black;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 480px;
+    height: 480px;
+}
+p{
+    color: black;
+}
+h5 {
+    color:aqua;
+}
+li{
+    color:yellowgreen;
+    }
+.Gato {
+    color:firebrick;
+}
+.Gato1{
+    color: greenyellow;
+    width: auto;
+    height: auto;
+    border: 2px solid black;
+}
+h1{/*Titulo*/
+    color: pink;
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 3px 3px 1px black;
+}
+.Samus{
+    color: lightblue;
+}
